@@ -1,0 +1,2 @@
+# NASMx86-Personal-Knowledge-Upkeep
+I feel like my assembly skills are dulling very fast since I dont RE anything at work ever and I feel like If I keep it up ill never write a hook again
