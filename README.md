@@ -4,4 +4,4 @@ I feel like my assembly skills are dulling very fast since I dont RE anything at
 And to the 1 person who will see this check this out!!! https://www.vergiliusproject.com/
 
 # Ruby
-I also never code in ruby anymore so I'm going to get back into it ¯\_(ツ)_/¯
+I also never code in ruby anymore so I'm going to get back into it  ¯\\_(ツ)_/¯
