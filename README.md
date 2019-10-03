@@ -8,6 +8,5 @@ And to the 1 person who will see this check this out!!! https://www.vergiliuspro
 I also never code in ruby anymore so I'm going to get back into it  ¯\\_(ツ)_/¯
 
 ## 🐍 Python 🐍
-Includes interview questions   
-online challenges, from github, hackerrank,...
-Also my learn python3 the hard way, to freshen up on the basics ;)
+Includes interview questions, online challenges, from github, hackerrank,...   
+Also my learn python3 the hard way, to freshen up on the basics ;)   
