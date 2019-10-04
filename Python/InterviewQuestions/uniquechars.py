@@ -1,8 +1,8 @@
 #-------------------------------------------------------------------------------
 # Purpose/Question:
 #
-'''Define a that takes a string as input and returns the first non-repeated (unique) character
-in the input string. If there are no unique characters return None. '''
+# '''Define a that takes a string as input and returns the first non-repeated (unique) character
+# in the input string. If there are no unique characters return None. '''
 # Author:      Olivier Laflamme
 #
 # Created:     03-10-2019
