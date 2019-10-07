@@ -9,6 +9,6 @@
 #-------------------------------------------------------------------------------
 
 import random
-Alist = [ 1 , 2 , 3 , 4 , 5 ]
-Random.shuffle(alist)
-Print (alist)
+alist = [ 1 , 2 , 3 , 4 , 5 ]
+random.shuffle(alist)
+print (alist)
