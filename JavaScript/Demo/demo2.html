@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript Image Replacment</title>
+</head>
+<>
+<script>
+    function myFunction() {
+        x=document.getElementById('demo'); //look for ID as demo
+        if (x.src.match('bulbon')){ //determin if a click was made
+            x.src="http://pic.netbian.com/uploads/allimg/180331/182615-15224919751fac.jpg" //this picture if not clicked
+        }else{
+            x.src="http://pic.netbian.com/uploads/allimg/180507/211615-1525698975c9a1.jpg" //this picture if clicked 
+        }
+    }
+    </script>
+<img id="demo" onclick="myFunction()" src="http://pic.netbian.com/uploads/allimg/180331/182615-15224919751fac.jpg">
+</body>
+</html>
