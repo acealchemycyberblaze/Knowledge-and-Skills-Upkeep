@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript input validation</title>
+</head>
+<body>
+<input id="demo" type="text">
+<script>
+    function myFunction() {
+        var x=document.getElementById("demo").value; //get id as bemo, get the value in the tag
+        if(x==""||isNaN(x)){ // determine if it is a number
+            alert("If you cant enter a number leave me alone!") //if not pop the box
+        }
+    }
+</script>
+<button type="button" onclick="myFunction()">Click me to verify</button>
+</body>
+</html>
+
