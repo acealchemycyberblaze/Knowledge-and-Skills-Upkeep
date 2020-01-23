@@ -1,0 +1,31 @@
+<body>
+<script>
+    //output loop
+    function xh() {
+       var r="";
+       var o="";
+       //continue re-cycle
+        for(var w=0;w<10;w++){
+           r+="My JS will make you fall in love with me:"+w+"<br>";
+           document.getElementById("demo").innerHTML=r;
+           if(w==3){
+               alert("recycle");
+               continue;
+           }
+       }
+        listw=["Dylan","Dustin","Byong Wong","Sebas","Nicky","304"];
+        //out of the loop
+        for(k=0;k<listw.length;k++){
+            document.getElementById("demo2").style.color="green";
+            document.getElementById("demo2").innerHTML=o+="My name is:"+listw[k]+"<br>";
+            break;
+        }
+    }
+</script>
+<p id="demo"></p>
+<b id="demo2">The Mighty Boschko</b>
+<button onclick="xh()">Click here!</button>
+</body>
+</html>
+
+//basically i want to output a loop on the html and much more so define an empty variable and then add it up
